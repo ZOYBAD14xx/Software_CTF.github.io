@@ -1,0 +1,16 @@
+*{
+  font-family: 'Product Sans'
+}
+body{
+  /* background: url(background.html); */
+}
+h6{
+  color: white;
+}
+#flag{
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
