@@ -4,10 +4,8 @@
 body{
   /* background: url(background.html); */
 }
-h6{
-  color: white;
-}
 #flag{
+  color: white;
   margin: 0;
   position: absolute;
   top: 50%;
